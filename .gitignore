@@ -1,4 +1,6 @@
 *
 !requirements-gpu.txt
-!solo_search.py
 !.gitignore
+!engine.py
+!search.py
+!main.py
